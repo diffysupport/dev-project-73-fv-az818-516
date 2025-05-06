@@ -1,5 +1,5 @@
 basic:
-    name: "O'Reilly, Yost and Ratke"
+    name: 'Wiegand, Zemlak and Lueilwitz'
     environments:
         production: 'https://www.mos.org/'
         staging: ''
